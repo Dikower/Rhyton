@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "Rhyton"
+version = "0.0.2"
+description = "R to Python transpiler"
+authors = ["Dmitriy Din <dmitriy1d01@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+rich = "^13.3.5"
+tree-sitter = "^0.20.1"
+pydocstyle = "^6.3.0"
+tree-sitter-languages = "^1.5.0"
+astor = "^0.8.1"
+sexpdata = "^1.0.0"
+
+
+[tool.poetry.group.dev.dependencies]
+networkx = "^3.1"
+plotly = "^5.14.1"
+pydot = "^1.4.2"
+black = "^23.3.0"
+pylint = "^2.17.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
