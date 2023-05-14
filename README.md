@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-##📜 What is _Rhyton_
+## 📜 What is _Rhyton_
 
 __Rhyton__ is a type of ancient Greek drinking vessel that is in the shape of an animal's head or horn and has a hole in the bottom for pouring the liquid. It was often used in religious ceremonies or feasts.
 
